@@ -1,5 +1,5 @@
-<div id="header" align="center" width="40px" height="45px">
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="100"/>
+<div id="header" align="center" >
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="300" height="250"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/pradeep-tarakar/">

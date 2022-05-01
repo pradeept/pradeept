@@ -19,7 +19,9 @@
 - 👀 I’m interested in Programming, Networking.
 - 🌱 I’m currently learning React JS
 <!--- 💞️ I’m looking to collaborate on ...-->
-- 📫 How to reach me - 
+- 📫 How to reach me - <a href="https://twitter.com/prad33p_t">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 <!---
 pradeept/pradeept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/XreQmk7ETCak0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/gifs/retro-thumbs-up-XreQmk7ETCak0"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/pradeep-tarakar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>

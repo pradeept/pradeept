@@ -18,11 +18,10 @@
 - 👋 Hi, I’m @pradeept
 - 👀 I’m interested in Programming, Networking.
 - 🌱 I’m currently learning React JS
-<!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me - <a href="https://twitter.com/prad33p_t">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="100" height="70"/>
   </a>
-
+<!--- 💞️ I’m looking to collaborate on ...-->
 <!---
 pradeept/pradeept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

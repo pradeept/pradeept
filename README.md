@@ -19,7 +19,7 @@
 - 👀 I’m interested in Programming, Networking.
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me - <a href="https://twitter.com/prad33p_t">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="20" height="20"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width="25" height="20"/>
   </a>
 <!--- 💞️ I’m looking to collaborate on ...-->
 <!---

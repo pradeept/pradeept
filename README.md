@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I am __Pradeep Tarakar__.
-
+I am **Pradeep Tarakar**.
 
 A DevOps professional & Cybersecurity enthusiast.
 
 - 🔭 I’m currently working on Microservices
 - 🌱 I’m currently learning GoLang & DevOps tools
+- 👩‍💻 Check out my [Portfolio](https://pradeept.netlify.app/)
 
 ### DevOps Repos 📂
 
@@ -37,7 +37,6 @@ A DevOps professional & Cybersecurity enthusiast.
 
 Here are some ideas to get you started:
 
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -45,3 +44,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+
+#### Feel free to connect 🤝 with me :)
+
+[LinkedIn](https://www.linkedin.com/in/pradeep-tarakar/) 💼
+
+[Medium](https://medium.com/@pradeep.tarakar17) 📝
+
+---
+
+<center>___Made with ❤️ & markdown___ </center>

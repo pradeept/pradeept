@@ -2,14 +2,18 @@
 
 I am **Pradeep Tarakar**.
 
-A DevOps professional & Cybersecurity enthusiast.
+A __Full Stack developer__ with __DevOps__ skills.
 
-- 🔭 I’m currently working on Microservices
-- 🌱 I’m currently learning GoLang & DevOps tools
+---
+
+<!--- 🌱 I’m currently learning GoLang -->
+- 🔭 I’m currently working on building Microservices
 - 👩‍💻 Check out my [Portfolio](https://pradeept.netlify.app/)
+- 📊 HackerRank [Profile](https://www.hackerrank.com/profile/pradeep_tarakar)
 
 ### DevOps Repos 📂
 
+- [Nodejs-CLI](https://github.com/pradeept/Provisioner-CLI-APP)
 - [Nextcloud](https://github.com/pradeept/Nextcloud)
 - [Infisical](https://github.com/pradeept/Nextcloud)
 - [DockerFiles](https://github.com/pradeept/Docker-Files)

@@ -24,9 +24,10 @@ A __Full Stack developer__ with __DevOps__ skills.
 
 ### MERN Stack Repos 📂
 
-- [Todo-MERN](https://github.com/pradeept/NGINX-Deployment-Manifests) with JWT, AES, SHA3 & CryptoJS.
-- [Multi-Vendor-Inforgraphic-App](https://github.com/pradeept/indowebagency-assignment)
-- Chat-App
+- [Todo-MERN](https://github.com/pradeept/Todo-MERN) with JWT, AES, SHA3 & CryptoJS.
+- [Multi-Vendor-Inforgraphic-App](https://github.com/pradeept/Multi-Vendor-Infographic-App)
+- [ChaterzZz](https://github.com/pradeept/ChaterzZz)
+- [Edditor](https://github.com/pradeept/Edditor)
 
 ### React & Next 📂
 

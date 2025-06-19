@@ -18,14 +18,16 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 ## 💻 Projects
 
 <details>
-  <summary><strong>📦 MERN Stack Projects</strong></summary>
+  <summary><strong>📦 MERN & Node Projects</strong></summary>
 
 | Project | Description / Tech Stack |
 |--------|---------------------------|
 | [Edditor - Text Editor](https://github.com/pradeept/Edditor) | Rich Text Editor using Quill.js & Google Drive |
 | [Todo-MERN](https://github.com/pradeept/Todo-MERN) | JWT Auth, AES Encryption, SHA3, CryptoJS |
 | [ChaterzZz](https://github.com/pradeept/ChaterzZz) | Real-time chat app |
-| [Multi-Vendor Infographic App](https://github.com/pradeept/Multi-Vendor-Infographic-App) | Infographic builder with vendor support |
+| [Multi-Vendor Infographic App](https://github.com/pradeept/Blog-Site) | Infographic builder with vendor support |
+| [Blog Site](https://github.com/pradeept/Multi-Vendor-Infographic-App) | Express.js and EJS application to compose blogs|
+| [Nodejs CLI](https://github.com/pradeept/Provisioner-CLI-APP) | CLI app for provisioning docker containers in a remote server |
 
 </details>
 
@@ -50,7 +52,6 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 
 | Project | Description / Tech Stack |
 |--------|---------------------------|
-| [Nodejs CLI](https://github.com/pradeept/Provisioner-CLI-APP) | Custom CLI app |
 | [Nextcloud](https://github.com/pradeept/Nextcloud) | Self-hosted cloud storage |
 | [Infisical](https://github.com/pradeept/Infisical) | Secrets management |
 | [DockerFiles](https://github.com/pradeept/Docker-Files) | Docker images and containers |

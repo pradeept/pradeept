@@ -36,6 +36,7 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 
 | Project | Description / Tech Stack |
 |--------|---------------------------|
+| [Travel Website - JadOO](https://github.com/pradeept/Travel-website) | An elegant and futuristic landing page for a travel website. Built using Next.js, Tailwindcss and motion.
 | [Loan Calculator & Exchange Rates](https://github.com/pradeept/Loan-Calculator) | Currency & loan calculators |
 | [Trello Clone](https://github.com/pradeept/Trello-clone) | Drag-and-drop task manager |
 | [Expense Manager](https://github.com/pradeept/Expense-Manager) | Expense tracking app |

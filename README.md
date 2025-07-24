@@ -18,10 +18,11 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 ## 💻 Projects
 
 <details>
-  <summary><strong>📦 MERN & Node Projects</strong></summary>
+  <summary><strong>📦 Fullstack Projects</strong></summary>
 
 | Project | Description / Tech Stack |
 |--------|---------------------------|
+| [Featherlogs](https://github.com/pradeept/Featherlogs) | Blog application - Next.js, TS, Mongoose, NextAuth 
 | [Edditor - Text Editor](https://github.com/pradeept/Edditor) | Rich Text Editor using Quill.js & Google Drive |
 | [Todo-MERN](https://github.com/pradeept/Todo-MERN) | JWT Auth, AES Encryption, SHA3, CryptoJS |
 | [ChaterzZz](https://github.com/pradeept/ChaterzZz) | Real-time chat app |
@@ -32,7 +33,7 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 </details>
 
 <details>
-  <summary><strong>⚛️ React.js / Next.js Projects</strong></summary>
+  <summary><strong>Frontend Projects</strong></summary>
 
 | Project | Description / Tech Stack |
 |--------|---------------------------|

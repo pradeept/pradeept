@@ -7,7 +7,7 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 ### 🚀 About Me
 
 - 🔭 Actively building and solving real-world problems
-- 🌐 Check out my [Portfolio Website](https://pradeept.netlify.app/)
+- 🌐 Check out my [Portfolio Website](https://pradeept.dev)
 - 💡 Learning something new every day
 - 📈 Profiles:
   - [HackerRank](https://www.hackerrank.com/profile/pradeep_tarakar)

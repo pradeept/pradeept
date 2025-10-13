@@ -65,6 +65,10 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 </details>
 
 ---
+## Holopin Board
+
+[![An image of @pradeept's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pradeept)](https://holopin.io/@pradeept)
+---
 
 ## 🤝 Connect with Me
 

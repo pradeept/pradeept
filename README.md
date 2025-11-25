@@ -7,6 +7,7 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 ### 🚀 About Me
 
 - 🔭 Actively building and solving real-world problems
+- 🏗️ Currently learning software architectures
 - 🌐 Check out my [Portfolio Website](https://pradeept.dev)
 - 💡 Learning something new every day
 - 📈 Profiles:
@@ -22,6 +23,7 @@ I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack fo
 
 | Project | Description / Tech Stack |
 |--------|---------------------------|
+| [RAGloma](https://github.com/pradeept/RAGloma) | AI application - Next.js, Langchain, Pinecone, Ollama, Perplexity 
 | [Featherlogs](https://github.com/pradeept/Featherlogs) | Blog application - Next.js, TS, Mongoose, NextAuth 
 | [Edditor - Text Editor](https://github.com/pradeept/Edditor) | Rich Text Editor using Quill.js & Google Drive |
 | [Todo-MERN](https://github.com/pradeept/Todo-MERN) | JWT Auth, AES Encryption, SHA3, CryptoJS |

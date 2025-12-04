@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm **Pradeep Tarakar** — a passionate **Full Stack Engineer** with a knack for **DevOps & Cloud Automation**.
+I'm **Pradeep Tarakar** — a **Full Stack Engineer** with a knack for **DevOps & Cloud Automation**.
 
 ---
 
